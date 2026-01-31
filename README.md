@@ -65,7 +65,7 @@ This structure improves maintainability and supports efficient collaboration.
 
 🌍 Live Demo
 
-..
+Check out my project on [Vercel](https://react-chakra-landing-page.vercel.app/)
 
 💼 Use Cases
 
