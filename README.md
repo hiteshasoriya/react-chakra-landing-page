@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 🌐 Modern Landing Page — React & Chakra UI
 
 A high-quality, conversion-focused landing page built with React and Chakra UI, designed to help businesses, startups, and brands establish a strong and professional online presence.
@@ -81,7 +80,3 @@ Marketing and promotional campaigns
 📌 Notes
 
 This project is intended as a production-ready landing page template and a professional showcase of modern frontend development practices using React and Chakra UI.
-=======
-# react-chakra-landing-page
-A modern, fully responsive landing page built with React and Chakra UI, designed for startups, businesses, and professional web projects.
->>>>>>> 80044455874772bade626815ba0e03ee426becb2
